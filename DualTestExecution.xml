@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/Klina/IdeaProjects/SDETBatch13TestNg/src/test/java/Class02/DependsON.java"><classes><class name="Class02.DependsON"><methods><include name="login"/><include name="verificationOfDashBoardPage"/></methods></class></classes></test></suite>
